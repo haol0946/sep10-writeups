@@ -5,11 +5,20 @@
 ## Period: 6
 ## Concept: HTML
 
-### Section
+### HTML & What ive learned so far 
 
-Text
+The code
+html, comments,head, body, heading 
+text
 
-Text
+
+
+The output
+paragraphs, list, imgs, links
+text
+
+
+
 
 * List
 * List
