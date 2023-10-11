@@ -8,13 +8,13 @@
 ### HTML & What ive learned so far 
 
 The code
-html, comments,head, body, heading 
+html, comments,head, body, heading (not done)
 text
 
 
 
 The output
-paragraphs, list, imgs, links
+paragraphs, list, imgs, links(Not done)
 text
 
 
