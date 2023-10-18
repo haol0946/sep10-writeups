@@ -33,7 +33,7 @@ So then I skimmed through the insturctions and had changed the code to
 ` <label for="indoor" value = "indoor"> <input id="indoor" type="radio" name="indoor-outdoor"> Indoor</label>`
 puttting  `value = "indoor` inside the `<label>` tag.
 
-However after seeing if it would work or not the code didnt end up working I did some tinkering for a bit and when that ended up not working I decided to go through the instructions one more time a little bit more carefully I thought to my self why would a value input be put inside a label tag when it really should be with the input tag with all of the other code that was giving another value to the code. So I then changed the code to this
+However after seeing if it would work or not the code didnt end up working I did some tinkering for a bit and when that ended up not working I decided to go through the instructions one more time a little bit more carefully I thought to my self why would a value input be put inside a label tag when it really should be with the input tag with all of the other code that was giving another value to the code. So I then changed the code to this code which ended up working 
 
 
 
@@ -48,7 +48,7 @@ However after seeing if it would work or not the code didnt end up working I did
 
    <label for="energetic"><input id="energetic" type="checkbox" name="personality" value= energetic > Energetic</label>
 ```
-
+[Freecodecamp Lesson](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes)
 
 
 
