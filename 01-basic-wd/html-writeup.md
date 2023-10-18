@@ -25,8 +25,24 @@ The challenges ive faced so far were mainly funny ones as the solutions were gen
     <label for="loving"><input id="loving" type="checkbox" name="personality"> Loving</label>
 
     <label for="lazy"><input id="lazy" type="checkbox" name="personality"> Lazy</label>
-```
 
+    <label for="energetic"><input id="energetic" type="checkbox" name="personality"> Energetic</label>
+```
+So then I skimmed through the insturctions and had changed the code to 
+` <label for="indoor" value = "indoor"> <input id="indoor" type="radio" name="indoor-outdoor"> Indoor</label>`
+puttting  `value = "indoor` inside the `<label>` tag 
+When I was meant to put it inside the `<input>` tag like this `   <label for="indoor" > <input id="indoor" type="radio" name="indoor-outdoor" value = "indoor"> Indoor</label>` therefore the correct code would be this.
+```
+    <label for="indoor" > <input id="indoor" type="radio" name="indoor-outdoor" value= indoor> Indoor</label>
+
+    <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor" value= outdoor> Outdoor</label><br>
+
+    <label for="loving"><input id="loving" type="checkbox" name="personality" value= loving> Loving</label>
+
+    <label for="lazy"><input id="lazy" type="checkbox" name="personality" value= lazy> Lazy</label>
+
+ <label for="energetic"><input id="energetic" type="checkbox" name="personality" value= energetic > Energetic</label>
+```
 
 
 
