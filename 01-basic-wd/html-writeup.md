@@ -51,7 +51,7 @@ However after seeing if it would work or not the code didnt end up working I did
 [Freecodecamp Lesson](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes)
 
 ### Challenge 2
-A more technical challenge was using `<div>` and figuring out how that worked as when I had gotten the challenge in FCC I was originally confused as the code had done nothing to the outcome so I went and tested it on replit which also ended up with nothing but I kept trying which leading to nowhere. But after the lesson on divs and span it was more apparent that div wasnt meant for the HTMl code but instead was grouping parts of the code to be influenced but the CSS. For example in this piece of code you can see that it is surrounded by a div tag with the named "similarites" this basically tells the CSS code that it should be treated differently 
+A more technical challenge was using `<div>` and figuring out how that worked as when I had gotten the challenge in FCC I was originally confused as the code had done nothing to the outcome so I went and tested it on replit which also ended up with nothing but I kept trying which leading to nowhere. But after the lesson on divs and span it was more apparent that div wasnt meant for the HTMl code but instead was grouping parts of the code to be influenced but the CSS. For example in this piece of code you can see that it is surrounded by a div tag with the named "similarites" this basically tells the CSS code that it should be treated differently.
 
 ### Div Code
 ```html
@@ -72,12 +72,12 @@ A more technical challenge was using `<div>` and figuring out how that worked as
     padding: 50px;
 }
 ```
-
+[Replit](https://replit.com/@09linhao/divs-spans#style.css)
 
 
 Some takeaways
 * Read the instructions carfully
 * Tinkering is very helpful
 * Pay attention to the lesson 
-*
+
 
