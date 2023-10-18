@@ -17,6 +17,7 @@ So far in the first unit we've strictly been learning HTML and its code for exam
 
 ### Challenges 
 The challenges ive faced so far were mainly funny ones as the solutions were generally right infront of my face the whole time and I wouldn't have struggled if I had paid attention and read the instructions on FCC. For example one challenge I had orignally was adding values to the Radio Buttons and Checkboxes. For example in FCC it would give you this line of code to add a value too each button or checkbox
+
 ```html
     <label for="indoor" > <input id="indoor" type="radio" name="indoor-outdoor" > Indoor</label>
 
@@ -27,12 +28,12 @@ The challenges ive faced so far were mainly funny ones as the solutions were gen
     <label for="lazy"><input id="lazy" type="checkbox" name="personality"> Lazy</label>
 
     <label for="energetic"><input id="energetic" type="checkbox" name="personality"> Energetic</label>
-```html
+```
 So then I skimmed through the insturctions and had changed the code to 
 ` <label for="indoor" value = "indoor"> <input id="indoor" type="radio" name="indoor-outdoor"> Indoor</label>`
 puttting  `value = "indoor` inside the `<label>` tag 
 When I was meant to put it inside the `<input>` tag like this `   <label for="indoor" > <input id="indoor" type="radio" name="indoor-outdoor" value = "indoor"> Indoor</label>` therefore the correct code would be this.
-```
+```html
     <label for="indoor" > <input id="indoor" type="radio" name="indoor-outdoor" value= indoor> Indoor</label>
 
     <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor" value= outdoor> Outdoor</label><br>
