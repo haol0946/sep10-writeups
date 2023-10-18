@@ -17,15 +17,15 @@ So far in the first unit we've strictly been learning HTML and its code for exam
 
 ### Challenges 
 The challenges ive faced so far were mainly funny ones as the solutions were generally right infront of my face the whole time and I wouldn't have struggled if I had paid attention and read the instructions on FCC. For example one challenge I had orignally was adding values to the Radio Buttons and Checkboxes. For example in FCC it would give you this line of code to add a value too each button or checkbox
-
- ```<label for="indoor" > <input id="indoor" type="radio" name="indoor-outdoor" > Indoor</label>
+```
+    <label for="indoor" > <input id="indoor" type="radio" name="indoor-outdoor" > Indoor</label>
 
     <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor" > Outdoor</label><br>
 
     <label for="loving"><input id="loving" type="checkbox" name="personality"> Loving</label>
 
-    <label for="lazy"><input id="lazy" type="checkbox" name="personality"> Lazy</label>```
-
+    <label for="lazy"><input id="lazy" type="checkbox" name="personality"> Lazy</label>
+```
 
 
 
@@ -57,7 +57,7 @@ text
 
 Inline `code` snippet
 
-```language
+language
 multi
 line
 code
