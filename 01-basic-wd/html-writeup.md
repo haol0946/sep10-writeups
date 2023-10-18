@@ -31,8 +31,12 @@ The challenges ive faced so far were mainly funny ones as the solutions were gen
 ```
 So then I skimmed through the insturctions and had changed the code to 
 ` <label for="indoor" value = "indoor"> <input id="indoor" type="radio" name="indoor-outdoor"> Indoor</label>`
-puttting  `value = "indoor` inside the `<label>` tag 
-When I was meant to put it inside the `<input>` tag like this `   <label for="indoor" > <input id="indoor" type="radio" name="indoor-outdoor" value = "indoor"> Indoor</label>` therefore the correct code would be this.
+puttting  `value = "indoor` inside the `<label>` tag.
+
+However after seeing if it would work or not the code didnt end up working I did some tinkering for a bit and when that ended up not working I decided to go through the instructions one more time a little bit more carefully I thought to my self why would a value input be put inside a label tag when it really should be with the input tag with all of the other code that was giving another value to the code. So I then changed the code to this
+
+
+
 ```html
     <label for="indoor" > <input id="indoor" type="radio" name="indoor-outdoor" value= indoor> Indoor</label>
 
@@ -42,7 +46,7 @@ When I was meant to put it inside the `<input>` tag like this `   <label for="in
 
     <label for="lazy"><input id="lazy" type="checkbox" name="personality" value= lazy> Lazy</label>
 
- <label for="energetic"><input id="energetic" type="checkbox" name="personality" value= energetic > Energetic</label>
+   <label for="energetic"><input id="energetic" type="checkbox" name="personality" value= energetic > Energetic</label>
 ```
 
 
