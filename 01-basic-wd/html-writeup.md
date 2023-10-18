@@ -16,7 +16,7 @@ So far in the first unit we've strictly been learning HTML and its code for exam
 
 
 ### Challenges 
-The challenges ive faced so far were mainly funny ones as the solutions were generally right infront of my face the whole time and I wouldn't have struggled if I ad paid attention and read the instructions on FCC
+The challenges ive faced so far were mainly funny ones as the solutions were generally right infront of my face the whole time and I wouldn't have struggled if I had paid attention and read the instructions on FCC. For example one challenge I had orignally was adding values to the Radio Buttons and Checkboxes. For example in this snippet `<label for="indoor"> <input id="indoor" type="radio" name="indoor-outdoor"> Indoor</label>`
 
 
 
