@@ -16,6 +16,7 @@ So far in the first unit we've strictly been learning HTML and its code for exam
 
 
 ### Challenges 
+The challenges ive faced so far were mainly funny ones as the solutions were generally right infront of my face the whole time and I wouldn't have struggled if I ad paid attention and read the instructions on FCC
 
 
 
@@ -26,9 +27,7 @@ So far in the first unit we've strictly been learning HTML and its code for exam
 
 
 
-
-
-
+### ignore fornow 
 The code
 html, comments,head, body, heading (not done)
 text
