@@ -16,7 +16,7 @@ So far in the first unit we've strictly been learning HTML and its code for exam
 
 
 ### Challenges 
-The challenges ive faced so far were mainly funny ones as the solutions were generally right infront of my face the whole time and I wouldn't have struggled if I had paid attention and read the instructions on FCC. For example one challenge I had orignally was adding values to the Radio Buttons and Checkboxes. For example in FCC it would give you this line of code to add a value too each button or checkbox
+The challenges ive faced so far were mainly funny ones as the solutions were generally right infront of my face the whole time and I wouldn't have struggled if I had paid attention and read the instructions on FCC. For example one challenge I had orignally was adding values to the Radio Buttons and Checkboxes. For example in FCC it would give you this line of code to add a value too each button or checkbox.
 
 ```html
     <label for="indoor" > <input id="indoor" type="radio" name="indoor-outdoor" > Indoor</label>
@@ -33,7 +33,7 @@ So then I skimmed through the insturctions and had changed the code to
 ` <label for="indoor" value = "indoor"> <input id="indoor" type="radio" name="indoor-outdoor"> Indoor</label>`
 puttting  `value = "indoor` inside the `<label>` tag.
 
-However after seeing if it would work or not the code didnt end up working I did some tinkering for a bit and when that ended up not working I decided to go through the instructions one more time a little bit more carefully I thought to my self why would a value input be put inside a label tag when it really should be with the input tag with all of the other code that was giving another value to the code. So I then changed the code to this code which ended up working 
+However after seeing if it would work or not the code didnt end up working I did some tinkering for a bit and when that ended up not working I decided to go through the instructions one more time a little bit more carefully I thought to my self why would a value input be put inside a label tag when it really should be with the input tag with all of the other code that was giving another value to the code. So I then changed the code to this code which ended up working. 
 
 
 
@@ -50,37 +50,34 @@ However after seeing if it would work or not the code didnt end up working I did
 ```
 [Freecodecamp Lesson](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes)
 
+### Challenge 2
+A more technical challenge was using `<div>` and figuring out how that worked as when I had gotten the challenge in FCC I was originally confused as the code had done nothing to the outcome so I went and tested it on replit which also ended up with nothing but I kept trying which leading to nowhere. But after the lesson on divs and span it was more apparent that div wasnt meant for the HTMl code but instead was grouping parts of the code to be influenced but the CSS. For example in this piece of code you can see that it is surrounded by a div tag with the named "similarites" this basically tells the CSS code that it should be treated differently 
 
-
-
-
-
-
-### ignore fornow 
-The code
-html, comments,head, body, heading (not done)
-text
-
-
-
-The output
-paragraphs, list, imgs, links(Not done)
-text
-
-
-
-
-* List
-* List
-
-[text](URL)
-![image text, optional](image URL)
-
-Inline `code` snippet
-
-language
-multi
-line
-code
-snippet
+### Div Code
+```html
+<div class="similarities">
+  <h2>Similarities</h2>
+  <ul>
+    <li>they are both <span class="blue"> containers </span> that hold content</li>
+    <li>they are invisible by default</li>
+    <li>they are styled with <code>&lt;style&gt;</code> and <code>&lt;class&gt;</code></li>
+  </ul>
+   </div>
 ```
+### CSS Code
+
+```css
+.similarities {
+    background-color: #EAFFF5;
+    padding: 50px;
+}
+```
+
+
+
+Some takeaways
+* Read the instructions carfully
+* Tinkering is very helpful
+* Pay attention to the lesson 
+*
+
