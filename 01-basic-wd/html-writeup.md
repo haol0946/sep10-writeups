@@ -12,7 +12,7 @@ I.E
 HTML = What shows up be it images, texts, or links
 
 ### What ive learned in HTML
-So far in the first unit we've strictly been learning HTML and its code for example using <img> to insert images to the page or using <li> for lists so on and so forth. However to learn all to this we've mainly using a couple things like freecodecamp or just paying attention during the class.
+So far in the first unit we've strictly been learning HTML and its code for example using `<img>` to insert images to the page or using `<li>` for lists so on and so forth. However to learn all to this we've mainly using a couple things like freecodecamp or just paying attention during the class.
 
 
 ### Challenges 
