@@ -1,6 +1,4 @@
-# Process Writeup
 
-## Name: Hao
 # Process Writeup
 
 ## Name: Hao
